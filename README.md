@@ -16,4 +16,4 @@
   <b>Minha rede social:</b>
   <br>
   <br>
-  <a href= "https://www.instagram.com/marcostchave/" target= "-blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+  <a href= "https://www.instagram.com/marcostchave/" target= "_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
