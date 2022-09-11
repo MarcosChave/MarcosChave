@@ -1,6 +1,6 @@
 <h3> Olá, seja bem vindo!:grinning:</h3>
   <br>
-  <b>Eu sou o Marcos, programador Front End. Aualmente estou aprendendo e criando projetos com:</b>        <img src= "https://pt.pngtree.com/freepng/cartoon-programmer_2659872.html"/>
+  <b>Eu sou o Marcos, programador Front End. Aualmente estou aprendendo e criando projetos com:</b>        <img href= "https://pt.pngtree.com/freepng/cartoon-programmer_2659872.html" src=/>
   <br>
   <br>
   <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
