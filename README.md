@@ -14,7 +14,7 @@
 <a href="mailto:marcosvtc7@outlook.com"> <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <br>
 
-  <b>Minha rede social:</b>
+  <b>Minhas redes sociais:</b>
   <br>
   <br>
   <a href="https://www.linkedin.com/in/marcos-chave-011557212/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
