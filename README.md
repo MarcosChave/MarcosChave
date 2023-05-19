@@ -27,5 +27,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosChave&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contato:
-[![Instagram](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:marcosvtc7@outlook.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:marcosvtc7@outlook.com)
+[![Telegram](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/@Marcos_Chave)
 
