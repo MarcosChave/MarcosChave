@@ -1,4 +1,4 @@
-<h3> Olá, seja bem vindo!:grinning:</h3>
+<h2 style="color: red;"> Olá, seja bem vindo!:grinning:</h2>
   <br>
   <b>Eu sou o Marcos, programador Front End. Aualmente estou aprendendo e criando projetos com:</b>
   <br>
