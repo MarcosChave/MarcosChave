@@ -6,9 +6,9 @@
 <hr>
 <div>
  
-<div style="width: 400px" align="left">
+<div>
 Sou um desenvolvedor front-end e adoro criar interfaces web incríveis e interativas. Com uma combinação de habilidades, meu objetivo é traduzir as visões de design em experiências digitais funcionais e visualmente atraentes.
-Tenho boa compreensão de HTML, CSS e JavaScript, bem como de frameworks populares como React. Trabalho para transformar conceitos em código prático, garantindo ao mesmo tempo a usabilidade e a compatibilidade entre navegadores.
+Tenho boa compreensão de HTML, CSS e JavaScript, bem como de frameworks populares como React. Trabalho para transformar conceitos em código prático, garantindo ao mesmo tempo a usabilidade e a compatibilidade entre navegadores. 
 </div>
  
 <div align="right">
