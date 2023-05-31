@@ -1,6 +1,24 @@
 # Ola! Seja bem vindo(a) ao meu GitHub.✌️
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-chave/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcostchave/)
+
+<hr>
+<div>
+ 
+<div style="width: 400px" align="left">
+Sou um desenvolvedor front-end e adoro criar interfaces web incríveis e interativas. Com uma combinação de habilidades, meu objetivo é traduzir as visões de design em experiências digitais funcionais e visualmente atraentes.
+Tenho boa compreensão de HTML, CSS e JavaScript, bem como de frameworks populares como React. Trabalho para transformar conceitos em código prático, garantindo ao mesmo tempo a usabilidade e a compatibilidade entre navegadores.
+</div>
+ 
+<div align="right">
+ 
+![giphy](https://github.com/MarcosChave/MarcosChave/assets/107279068/9737b639-5e7a-4348-83a5-a36020b711af)
+ 
+</div>
+ 
+</div>
+<hr>
 
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosChave&show_icons=true&theme=tokyonight)
 
@@ -15,7 +33,7 @@
  
  <br/>
   
-<img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img align="right" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <img align="center" alt="json" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
 <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
